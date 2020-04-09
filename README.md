@@ -13,6 +13,8 @@ To install java, click here
 
  and create a new JAVA_HOME environment variable and set variable value as path value to JDK folder.
  
+ ![](Img1.png)
+ 
 Step 2) To download Maven click  here and download Binary zip archive file. 
 Create new Environment Variables
  ‘MAVEN_HOME’ and ‘M2_HOME’.
