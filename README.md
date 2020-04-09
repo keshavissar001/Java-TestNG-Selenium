@@ -82,11 +82,11 @@ To run parallel test :
 
     mvn test -P parallel
 
-To run single test from Jenkins :
+To run single Jenkins test :
 
     mvn test -P singleJenkins
 
-To run parallel test from Jenkins :
+To run parallel Jenkins test  :
 
     mvn test -P parallelJenkins
 
