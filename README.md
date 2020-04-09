@@ -13,6 +13,7 @@ To install java, click here
 
  and create a new JAVA_HOME environment variable and set variable value as path value to JDK folder.
  
+ <img src="Img1.png">
  ![](Img1.png)
  
 Step 2) To download Maven click  here and download Binary zip archive file. 
