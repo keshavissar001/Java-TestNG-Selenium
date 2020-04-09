@@ -1,10 +1,14 @@
 Java TestNG Selenium Tutorial
 
 Prerequisites for TestNG tutorial :
+
 Environment Setup :
+
 This is Windows environment variable location :
+
 Control Panel > All Control Panel Items > System > Advanced system settings > Environment Variables
 Step 1) Install JDK and Add ‘JAVA_HOME’ Environment Variable
+
 To install java, click here
 
  and create a new JAVA_HOME environment variable and set variable value as path value to JDK folder.
