@@ -13,7 +13,8 @@ To install java, click here
 
  and create a new JAVA_HOME environment variable and set variable value as path value to JDK folder.
  
-Step 2) To download Maven click  here and download Binary zip archive file.  Create new Environment Variables
+Step 2) To download Maven click  here and download Binary zip archive file. 
+Create new Environment Variables
  ‘MAVEN_HOME’ and ‘M2_HOME’.
 and provide variable value as path to maven installation folder.
  
@@ -29,7 +30,7 @@ Step 4) Verify maven in console
 Maven installation is complete. Now lets test it from windows command prompt.
 1.	Go to start menu and type cmd in application location search box.
 2.	Press ENTER. A new command prompt will be opened.
-3.	Type mvn -version in command prompt and hit ENTER.
+3.	Type "mvn -version" in command prompt and hit ENTER.
 
  
 This should show the version information of maven installed. If there is any error shown, cross-check all above steps.
